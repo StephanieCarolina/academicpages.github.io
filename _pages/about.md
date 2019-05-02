@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Libretto:cherry_blossom:"
+title: "Libretto :cherry_blossom: "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 [![HitCount](http://hits.dwyl.io/stephaniecarolina/stephaniecarolina.svg)](http://hits.dwyl.io/stephaniecarolina/stephaniecarolina)
+:cherry_blossom:
