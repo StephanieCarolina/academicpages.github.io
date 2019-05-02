@@ -86,7 +86,7 @@ author:
   location         : "Bogotá, Colombia."
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -175,16 +175,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  musica:
     output: true
     permalink: /:collection/:path/
-  publications:
+  dibujos:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  poesia:
     output: true
     permalink: /:collection/:path/
-  talks:
+  fisica:
     output: true
     permalink: /:collection/:path/
 
@@ -209,37 +209,37 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _musica
   - scope:
       path: ""
-      type: teaching
+      type: musica
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _dibujos
   - scope:
       path: ""
-      type: publications
+      type: dibujos
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _fisica
   - scope:
       path: ""
-      type: portfolio
+      type: fisica
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _astronomia
   - scope:
       path: ""
-      type: talks
+      type: astronomia
     values:
       layout: talk
       author_profile: true
