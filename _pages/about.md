@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Libretto"
+title: "Libretto:cherry_blossom:"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
