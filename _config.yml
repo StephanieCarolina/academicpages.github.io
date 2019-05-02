@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "21 días de amore."
 title_separator          : "-"
-name                     : &name "Stephanie Carolina :cherry_blossom:"
+name                     : &name "Stephanie Carolina"
 description              : &description "Aquí presento mi cuaderno de bocetos."
 url                      : https://stephaniecarolina.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Carito Cely:cherry_blossom:"
+  name             : "Carito Cely :cherry_blossom:"
   avatar           : "WIN_20190319_17_44_12_Pro (2).jpg"
   bio              : "Blog de arte y ciencia."
   location         : "Bogotá, Colombia."
